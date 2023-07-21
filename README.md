@@ -19,13 +19,24 @@ Before Makers, I had a variety of roles: I spent 5 years as a crutial team membe
 **Formula Recruitment** (September 2021 - Novemeber 2022) 
 _Technical Consultant_
 
-- 
+-  Technical Recruiter working with high-level clients to fill Software Engineer and 
+related roles
+- Worked closely with large Tech Companies and Software Engineers ranging from 
+Mid-Level to Tech Lead
+- Understanding of Agile Methodoglies, TDD and tech stacks including but not limited 
+too: Java, Python, Ruby, JavaScript, Kotlin and more
 
 **Music Gateway** (April 2017 - August 2021)
 
 _Head of A&R_
 
-- 
+- - Music Industy SaaS company start-up, which provided an online platform for 
+creatives to collaborate and find opportunities
+- Worked in a high pressure, fast paced start-up environment, closely with the in house 
+Tech Team to provide a Web Based platform to facilitate creatives 
+- Worked across the A&R department working closely with high-level clients 
+- Represented the business in a number of oversea conferences including LA and 
+Hamburg
 
 
 ## Skills
