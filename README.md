@@ -8,8 +8,8 @@ Before Makers, I had a variety of roles: I spent 5 years as a crutial team membe
 
 | Name | Description | Tech/tools |
 |------|------------|-------------|
-| [Excuse](https://github.com/awdem/excuse](https://github.com/JRSkates/excuse)) | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and Nasa's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
-| [Acebook Fire](https://github.com/awdem/GildedRose-kata-js-jest](https://github.com/JRSkates/acebook-fire)) | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase.  | MERN stack, Jest, Cypress|
+| [Excuse](https://github.com/JRSkates/excuse) | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and Nasa's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
+| [Acebook Fire](https://github.com/JRSkates/acebook-fire) | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase.  | MERN stack, Jest, Cypress|
 | [RuBnB](https://github.com/JRSkates/ruBnB) |  An AirBnB clone created as part of our first engineering project with Makers. Fullstack project built almost entirely with Ruby  | Ruby, HTML/CSS, RSpec, Sinatra, BCrypt|
 | [Chitter Challenge](https://github.com/JRSkates/skates-chitter-challenge) | A small twitter clone completed as a solo challenge for Makers. | Ruby, RSpec, PostgresSQL, Sinatra, Active Record, Bcrypt |
 <!-- | [Gilded Rose](https://github.com/awdem/GildedRose-kata-js-jest) | My approach to the infamous Gilded Rose kata in Javascript. | NodeJS, Jest| -->
