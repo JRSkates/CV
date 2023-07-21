@@ -1,69 +1,71 @@
-## Your Name
+## Jack Skates
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’m Jack, a recent graduate of [Maker's Academy](https://apply.makers.tech/tech-skills-bootcamp-in-software-engineering) tech bootcamp. I'm an aspiring developer with experience in developing web and mobile apps using primarily the MERN stack, React Native and Ruby, however I consider myself "language agnostic" and I'm keen to continuing my learning in Python and other languages. I love to work in teams and build exciting, forward thinking and interesting projects with cutting edge tech. I also have a very strong interest in all things AI. 
 
-## Projects
+Before Makers, I had a variety of roles: I spent 5 years as a crutial team member in a SaaS online platfrom for creatives called Music Gateway. I served a number of roles during my career, most notable of which was Head of A&R where I led a team to spearhead the acquisition of Artists and Labels under our catalogue. I also worked closely with the in-house tech team to help bridge the gap between the product and the website. More recently I spent 14 months with Formula Recruitment, working as a Tecnical Consultant recruiting Mid-Tech Lead Software Engineering roles for a number of high-level clients such as: Chainalysis, M&S, MoD, DEFRA and more. My main verticals were Java, Scala, SDETs with some work on JS & React roles.
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## Projects 
+
+| Name | Description | Tech/tools |
+|------|------------|-------------|
+| [Excuse](https://github.com/awdem/excuse](https://github.com/JRSkates/excuse)) | Two-week final project for Makers. A mobile app that generates excuses using Open AI API and Nasa's EoNet. | React Native, Expo, Open AI API, EoNet, Express, Jest, Axios, NodeJS |
+| [Acebook Fire](https://github.com/awdem/GildedRose-kata-js-jest](https://github.com/JRSkates/acebook-fire)) | A functioning facebook clone. Two-week engineering project at makers geared towards understanding and adding to an existing codebase.  | MERN stack, Jest, Cypress|
+| [RuBnB](https://github.com/JRSkates/ruBnB) |  An AirBnB clone created as part of our first engineering project with Makers. Fullstack project built almost entirely with Ruby  | Ruby, HTML/CSS, RSpec, Sinatra, BCrypt|
+| [Chitter Challenge](https://github.com/JRSkates/skates-chitter-challenge) | A small twitter clone completed as a solo challenge for Makers. | Ruby, RSpec, PostgresSQL, Sinatra, Active Record, Bcrypt |
+<!-- | [Gilded Rose](https://github.com/awdem/GildedRose-kata-js-jest) | My approach to the infamous Gilded Rose kata in Javascript. | NodeJS, Jest| -->
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Formula Recruitment** (September 2021 - Novemeber 2022) 
+_Technical Consultant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Music Gateway** (April 2017 - August 2021)
 
-- Any experience relevent to software development
+_Head of A&R_
+
+- 
+
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
+<!-- - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-#### Another skill
+#### Logistics
 
+My main passion is problem solving, which is reflected within my professional life. During my time with Music Gateway we often received ideas from our CEO for new features for the platform, and it was my responsibility to plan, implement and excute these features from the ground up. This would involve working across a number of internal teams including our inhouse Tech Team. I take pride in my ability to break down complex issues into more granular elements, and find a path to achieve what initially seems overwhelming. Notable examples of this in my previous career include during my time as a Technical Recruiter, where we would have to disect and abstract briefs from our clients on their hiring needs and turn those into fully realises roles, of which we would then actively headhunt.
+
+<!-- Analytical mind, problem solving, use veg box as example (100% growth) -->
+
+#### Teamwork
+
+I'm a team oriented, natural leader and pride myself not only on my technical ability but my genuine passion for Agile, teamwork and facilitating others. When working in teams I've often received compliments on my confidence, technical knowledge and friendly, outgoing personality. During group projects with Makers I often led the stand ups, retros, and even on one occasion I was asked to lead the Cohort wide presentation of our first Engineering Project. What I've found incredible about my first year within the Software Engineering world is how much more can be achieved whilst working alongside other talented developers, versus solo work. It really had become one of my favourite elements of the role, and I relish in the opportunity to collaborate whenever possible. During my time with Music Gateway, I was given a leadership role at the age of 21, running a team of 4 people who all directly reported to me for the A&R arm of the business
+<!-- listener, calming, funny, easy going use edventure MSc or vegbox as example 
+able to bring up conflicting personalities in a healthy and productive way?-->
+
+#### Communication
+
+<!-- writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example? -->
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy Tech Bootcamp (March 2023 - July 2023)
+- Completed a 16-week intensive coding bootcamp focused on full-stack software engineering 
+- Practiced pair programming every day in order to solve problems effeciently, requiring teamwork and communication.
+- Frequent group projects using Github for version control annd AGILE methodologies for workflow: MVP, sprints, tickets, stand-ups and retros.
+- Learned TDD and OOP design principles
+- Made Projects using Ruby, JavaScript, PostgreSQL, MERN stack, and React Native
 
-#### Your University / College (start_date to end_date)
+#### Academy of Contemporary Music, Guildford (2014-2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- 3 Year BA Professional Sound Production Degree completed in just 2 years on a fast-tracked course
+- Worked with high end Sound Engineering equipment to record, mix and master commerical quailty audio
+- Frequently worked with groups to complete projects collabratively
+- Completely my dissertation "Is High-Res Audio a Viable Option for the Modern Consumer?" - this paper led me to be invited to a conference in LA for Hi-Res audio researchers 
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+### Other qualifications
