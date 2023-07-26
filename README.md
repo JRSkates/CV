@@ -58,7 +58,6 @@ I'm a team oriented, natural leader and pride myself not only on my technical ab
 <!-- listener, calming, funny, easy going use edventure MSc or vegbox as example 
 able to bring up conflicting personalities in a healthy and productive way?-->
 
-#### Communication
 
 <!-- writing, clear, honest, lay groundwork, use Jellied Eel or MSx thesis as example? -->
 
@@ -79,4 +78,10 @@ able to bring up conflicting personalities in a healthy and productive way?-->
 - Completely my dissertation "Is High-Res Audio a Viable Option for the Modern Consumer?" - this paper led me to be invited to a conference in LA for Hi-Res audio researchers 
 
 
-### Other qualifications
+### Hobbies
+
+- Avid Chelsea Fan
+- Stand Up Comedy
+- History, Ancient and Modern!
+- Tech (of course)
+- Encyclopedic knowledge of all the best Pubs in London
